@@ -1,0 +1,1 @@
+Uname with no arguments
